@@ -2,7 +2,7 @@
 
 **`CS @ Northeastern`**
 
-I'm a 4th-year undergraduate CS major at Northeastern University, set to graduate in Spring 2025. I completed a year-long co-op as a Site Reliability Engineer, where I explored a variety of new technologies that I now actively incorporate into my personal projects. All of my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm a 4th-year undergraduate CS major at Northeastern University, set to graduate in Spring 2025. I completed 2 six month co-ops as a Site Reliability Engineer, where I explored a variety of new technologies that I now actively incorporate into my personal projects. All of my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 Some of my favorite work includes developing and releasing full-stack projects, such as Swipes4Sale, a cross-platform meal exchange app built with React Native, designed to help students exchange unused meal passes before they expire. More recently, I hosted a federated Mastodon server entirely on AWS, using Grafana for monitoring and metrics tracking. What started as a space for friends grew into a vibrant game community with over 150 daily users. Through this, I learned how to design resilient architectures on AWS and implement health checks to monitor performance and quickly resolve issues. Whether I'm tackling a new passion project or writing code just for fun, I’m always excited to keep learning and building along the way!
 
