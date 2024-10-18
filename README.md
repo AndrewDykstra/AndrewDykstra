@@ -1,4 +1,4 @@
-# 🏉 Andrew Dykstra ⚽
+# ⚽ Andrew Dykstra 🏉
 
 **`CS @ Northeastern`**
 
