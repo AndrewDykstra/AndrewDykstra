@@ -30,9 +30,9 @@ Some of my favorite work includes developing and releasing full-stack projects, 
           
 <br />
           
----
+<!-- ---
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
