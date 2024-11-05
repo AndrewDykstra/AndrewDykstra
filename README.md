@@ -30,11 +30,11 @@ Some of my favorite work includes developing and releasing full-stack projects, 
           
 <br />
           
----
+<!-- ---
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
-<img align="left" alt="AndrewDykstra's GitHub Stats" src="https://github-readme-stats-git-master-andrewdykstras-projects.vercel.app/api?username=AndrewDykstra&show_icons=true&hide_border=true"/>
+<!-- <img align="left" alt="AndrewDykstra's GitHub Stats" src="https://github-readme-stats-git-master-andrewdykstras-projects.vercel.app/api?username=AndrewDykstra&show_icons=true&hide_border=true"/>
 #
 <!--
 **AndrewDykstra/AndrewDykstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
